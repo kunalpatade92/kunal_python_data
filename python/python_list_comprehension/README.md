@@ -1,7 +1,7 @@
 # hackerRank solutions in python
 
-## python function example
+## python list comprehension
 
 |#|Title|solution|difficulty|
 |--|----|--------|----------|
-|1|[Py function_example](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)|Python|Medium|
+|7|[Py list_comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)|Python|Medium|
