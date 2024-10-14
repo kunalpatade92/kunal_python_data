@@ -1,7 +1,7 @@
 # hackerRank solutions in python
 
-## python If else
+## python Nested List
 
 |#|Title|solution|difficulty|
 |--|----|--------|----------|
-|1|[Py If Else](https://hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|Python|Easy|
+|8|[Python Nested List](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)|Python|Medium|
