@@ -1,7 +1,7 @@
 # hackerRank solutions in python
 
-## python If else
+## python loops
 
 |#|Title|solution|difficulty|
 |--|----|--------|----------|
-|1|[Py If Else](https://hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|Python|Easy|
+|5|[Py loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)|Python|Easy|
