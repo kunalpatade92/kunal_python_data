@@ -1,0 +1,25 @@
+def sorted_students(names_score):
+    scores = []
+    for std in names_score:
+        scores.append(std[1])
+    sorted_scores = sorted(set(scores))
+    second_lowest = sorted_scores[1]
+    names_second_lowest= []
+    for std in names_score:
+        if std[1] == second_lowest:
+            names_second_lowest.append(std[0])
+            
+    names_second_lowest = sorted(names_second_lowest)
+    
+    for name in names_second_lowest:
+        print(name)
+
+
+if __name__ == '__main__':
+    names_score= []
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        names_score.append([name, score])
+        
+    sorted_students(names_score)
