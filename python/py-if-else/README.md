@@ -1,7 +1,7 @@
 # hackerRank solutions in python
 
-## combine two tables
+## python If else
 
 |#|Title|solution|difficulty|
 |--|----|--------|----------|
-|1|[find runner up score]([https://leetcode.com/problems/combine-two-tables/?lang=pythondata](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true))|Python|Easy|
+|1|[Py If Else](https://hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|Python|Easy|
