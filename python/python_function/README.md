@@ -1,7 +1,7 @@
 # hackerRank solutions in python
 
-## python If else
+## python function example
 
 |#|Title|solution|difficulty|
 |--|----|--------|----------|
-|1|[Py If Else](https://hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)|Python|Easy|
+|1|[Py function_example](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)|Python|Medium|
