@@ -1,4 +1,4 @@
-# Leetcode solutions in python
+# hackerRank solutions in python
 
 ## combine two tables
 
